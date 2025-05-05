@@ -1,0 +1,65 @@
+/* FeatureCard.css */
+.feature-card {
+  background-color: #f7fafc;
+  border-radius: 12px;
+  padding: 20px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.feature-icon {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.feature-icon img {
+  width: 100%;
+  height: auto;
+}
+
+.feature-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #2d3748;
+  margin: 0 0 10px 0;
+  text-align: center;
+}
+
+.feature-description {
+  font-size: 14px;
+  color: #718096;
+  margin: 0;
+  text-align: center;
+  line-height: 1.4;
+}
+
+@media (max-width: 400px) {
+  .feature-card {
+    padding: 15px 10px;
+  }
+  
+  .feature-icon {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .feature-title {
+    font-size: 14px;
+  }
+  
+  .feature-description {
+    font-size: 12px;
+  }
+} 

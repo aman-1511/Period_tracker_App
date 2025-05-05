@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" fill="none">
+  <!-- Background elements -->
+  <circle cx="150" cy="150" r="120" fill="#F0F4F8" opacity="0.5"/>
+  <path d="M240 150C240 199.706 199.706 240 150 240C100.294 240 60 199.706 60 150C60 100.294 100.294 60 150 60C199.706 60 240 100.294 240 150Z" fill="#EBF8FF" stroke="#4299E1" stroke-width="2"/>
+  
+  <!-- Decorative elements -->
+  <path d="M60 110C70 100 90 120 100 110" stroke="#FEB2B2" stroke-width="3" stroke-linecap="round"/>
+  <path d="M240 190C230 200 210 180 200 190" stroke="#FEB2B2" stroke-width="3" stroke-linecap="round"/>
+  <path d="M80 200C90 210 110 190 120 200" stroke="#BEE3F8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M220 100C210 90 190 110 180 100" stroke="#BEE3F8" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Clock face -->
+  <circle cx="150" cy="150" r="70" fill="white" stroke="#4299E1" stroke-width="3"/>
+  <circle cx="150" cy="150" r="5" fill="#4A5568"/>
+  
+  <!-- Clock hands -->
+  <line x1="150" y1="150" x2="150" y2="100" stroke="#4A5568" stroke-width="3" stroke-linecap="round"/>
+  <line x1="150" y1="150" x2="190" y2="170" stroke="#E53E3E" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Hour marks -->
+  <line x1="150" y1="85" x2="150" y2="95" stroke="#4A5568" stroke-width="2" stroke-linecap="round"/>
+  <line x1="150" y1="205" x2="150" y2="215" stroke="#4A5568" stroke-width="2" stroke-linecap="round"/>
+  <line x1="85" y1="150" x2="95" y2="150" stroke="#4A5568" stroke-width="2" stroke-linecap="round"/>
+  <line x1="205" y1="150" x2="215" y2="150" stroke="#4A5568" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Woman illustration -->
+  <ellipse cx="150" cy="230" rx="40" ry="10" fill="#E2E8F0"/>
+  
+  <!-- Body -->
+  <path d="M140 220V190C140 180 160 180 160 190V220" fill="#FBB6CE" stroke="#D53F8C" stroke-width="2"/>
+  
+  <!-- Hands -->
+  <path d="M140 190C130 180 120 200 130 210" stroke="#FBB6CE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M160 190C170 180 180 200 170 210" stroke="#FBB6CE" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Head -->
+  <circle cx="150" cy="170" r="15" fill="#FBB6CE"/>
+  <path d="M143 168C143.5 168.5 144.5 168.5 145 168" stroke="#4A5568" stroke-width="1" stroke-linecap="round"/>
+  <path d="M155 168C155.5 168.5 156.5 168.5 157 168" stroke="#4A5568" stroke-width="1" stroke-linecap="round"/>
+  <path d="M148 173C150 175 152 175 154 173" stroke="#4A5568" stroke-width="1" stroke-linecap="round"/>
+  
+  <!-- Hair -->
+  <path d="M135 160C135 152 145 145 150 145C155 145 165 152 165 160C165 163 163 170 160 174H140C137 170 135 163 135 160Z" fill="#4A5568"/>
+  <path d="M145 145C140 135 135 130 135 135C135 140 140 145 145 145Z" fill="#4A5568"/>
+  <path d="M155 145C160 135 165 130 165 135C165 140 160 145 155 145Z" fill="#4A5568"/>
+</svg>

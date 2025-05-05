@@ -1,0 +1,31 @@
+/* Header.css */
+.app-header {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.app-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a365d;
+  margin-bottom: 10px;
+  line-height: 1.2;
+}
+
+.app-subtitle {
+  font-size: 16px;
+  color: #4a5568;
+  margin: 0;
+  line-height: 1.5;
+  padding: 0 15px;
+}
+
+@media (max-width: 400px) {
+  .app-title {
+    font-size: 24px;
+  }
+  
+  .app-subtitle {
+    font-size: 14px;
+  }
+} 
