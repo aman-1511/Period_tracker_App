@@ -99,12 +99,6 @@ npm run dev
 
 The frontend should now be running on http://localhost:5173 and the backend on http://localhost:5000.
 
-## Privacy & Security
 
-This application prioritizes user privacy and data security. All sensitive health information is stored securely and is never shared with third parties without explicit consent.
-
-## Development Team
-
-This project was developed with care and consideration for diverse user needs. Our team is committed to creating tools that empower users to take control of their health through technology.
 
 
