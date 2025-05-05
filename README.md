@@ -2,7 +2,7 @@
 
 <!-- Project Image Placeholder -->
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/731bbf7f-9278-48eb-8a2a-3fc31d8fd622)" alt="Period Tracker App" width="600">
+  <img src="https://github.com/user-attachments/assets/731bbf7f-9278-48eb-8a2a-3fc31d8fd622" alt="Period Tracker App" width="600">
 </p>
 
 ## Overview
@@ -21,27 +21,27 @@ Period Tracker is a comprehensive menstrual cycle tracking application designed 
 
 ### Home Page
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/731bbf7f-9278-48eb-8a2a-3fc31d8fd622)" alt="Home Page" width="700">
+  <img src="https://github.com/user-attachments/assets/731bbf7f-9278-48eb-8a2a-3fc31d8fd622" alt="Home Page" width="700">
 </p>
 
 ### Dashboard
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/a2865f96-cd88-418f-afd8-2e6148ba1e47)" alt="Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/a2865f96-cd88-418f-afd8-2e6148ba1e47" alt="Dashboard" width="700">
 </p>
 
 ### Symptom Tracking
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/ce96fa2c-867d-49f8-b101-256dde9ee994)" alt="Symptom Tracking" width="700">
+  <img src="https://github.com/user-attachments/assets/ce96fa2c-867d-49f8-b101-256dde9ee994" alt="Symptom Tracking" width="700">
 </p>
 
 ### Statistics
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/121304ef-9c4b-4369-90df-576cb128d7ce)" alt="Statistics" width="700">
+  <img src="https://github.com/user-attachments/assets/121304ef-9c4b-4369-90df-576cb128d7ce" alt="Statistics" width="700">
 </p>
 
 ### Blog Page
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/59cdd971-9d60-4b5c-ae07-ad0e623ef887)" alt="Blog Page" width="700">
+  <img src="https://github.com/user-attachments/assets/59cdd971-9d60-4b5c-ae07-ad0e623ef887" alt="Blog Page" width="700">
 </p>
 
 ## Tech Stack
